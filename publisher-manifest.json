@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c2c32d336769396423c03be6",
+  "owner": "urjypeggv",
+  "repo": "page-d5aef54724971ca298e03948",
+  "title": "斑马",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d5aef54724971ca298e03948",
+      "a": "斑马",
+      "b": "2027最新官网",
+      "entity": "斑马",
+      "brand": "斑马",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5723348f0a77380d4d252c3f1bbeadc46d9baeb447d9385432e330c47dfcd803",
+      "content": {
+        "primary_entity": "斑马",
+        "keyword1": "斑马",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按照手机、电脑与路由器等设备类型选用对应对客户端，订阅导入以客户端说明为准。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先明确设备数量和月流量需求，再对照套餐选一款适合自己的方案。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_DESCRIPTION": "，斑马面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，并含IPLC专线游戏优化；团队版每月1000GB流量、支持20台设备，可定制企业路由。订阅按年付更划算，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度了解斑马套餐的差异。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备，适合个人轻量浏览与流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB、5台设备，IPLC专线对游戏加速更友好。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB、20台设备，可定制企业路由并配专属客户经理。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "进阶均衡",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "按三个步骤确定套餐并完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "斑马提供基础版、旗舰版与团队版三档海外加速套餐，覆盖个人浏览、流媒体与游戏加速等场景。选择套餐时先看设备数量与月流量，再按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "斑马三档套餐按需选",
+          "AI_HIGHLIGHT_1": "基础版¥15/月，100GB流量支持3台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线，游戏加速更稳",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备与定制路由",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与线路权益，按实际用量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量和月流量估算套餐档位，个人可选基础版，多人协作看团队版。",
+          "AI_STEP_TEXT_2": "确认设备系统与网络环境，对照客户端列表选择匹配的客户端名称。",
+          "AI_STEP_TEXT_3": "依照所选客户端的文档步骤导入订阅，检查节点与流量显示后开始使用。",
+          "AI_STEP_TITLE_1": "明确需求",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "斑马海外加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "斑马套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "差异集中在流量、设备数和线路：基础版 100GB 支持 3 台设备，旗舰版 300GB 支持 5 台并含 IPLC 专线，团队版 1000GB 支持 20 台并含 VIP 节点与定制路由。",
+          "AI_FAQ_QUESTION_2": "如何选择年付还是月付？",
+          "AI_FAQ_ANSWER_2": "短期试用可选月付，长期稳定使用年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，折合每月低于月付价格。",
+          "AI_FAQ_QUESTION_3": "订阅可以同时在几台设备使用？",
+          "AI_FAQ_ANSWER_3": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，超出数量会导致连接异常，按实际设备数选档即可。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端使用？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中导入订阅链接，保存后更新节点列表并连接。不同客户端的导入入口略有差异，参照对应客户端文档操作。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 1000GB 月流量、20 台设备同时在线、VIP 高带宽节点与企业定制路由，适合多成员协作或设备数量较多的办公场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes358a4qal83ejnm.com",
+    "host": "xn--mes358a4qal83ejnm.com"
+  },
+  "file_hashes": {
+    "index.html": "a885074b772773daf4ca3a83c09d89fac90c410079028b18a81d0af67a0708f5",
+    "sitemap.xml": "b937ae4a41ced6aa074373d0ab77c47893e839871640a030214d77f65f5c125b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "205b348d36ccdbe6a4a5025f3c493d7c27882c6cba1f388b67ac33d4faa317f7",
+    "robots.txt": "f42eb820cecd78375c56cc92c8eb36b7eb81807f6c2b9eea099ee092f6b7576b",
+    "dc094e37bb7078b460e645e236d7fcd9.txt": "156fbea555822823eada7e2a6e61bec9669f5b234b48012a0681de5516563b7a"
+  },
+  "revision": "c8d3878ef0b9fbeacda3c9b5e097ccf4c597c79ddc1d630a9cd1c9f89c295af5"
+}
